@@ -1,5 +1,5 @@
 /*
- Copyright 2011-2016 Adobe Systems Incorporated. All Rights Reserved.
+ Andrew Mulet ICS4U
 */
 (function (d) {
   "function" === typeof define && define.amd && define.amd.jQuery ? define(["jquery", "webpro", "museutils"], d) : d(jQuery)
