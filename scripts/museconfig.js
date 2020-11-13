@@ -1,5 +1,5 @@
 /*
- Copyright 2011-2016 Adobe Systems Incorporated. All Rights Reserved.
+ Andrew Mulet ICS4U
 */
 (function () {
   if (!window.museConfigLoadedAndExecuted) {
